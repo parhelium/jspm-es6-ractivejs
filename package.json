@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "jspm": {
-    "directories": {},
     "dependencies": {
       "fetch": "npm:whatwg-fetch@^0.11.0",
       "ractive": "github:ractivejs/ractive@^0.7.3",
