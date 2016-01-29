@@ -20,6 +20,7 @@ System.config({
     "core-js": "npm:core-js@1.2.6",
     "fetch": "npm:whatwg-fetch@0.11.0",
     "ractive": "github:ractivejs/ractive@0.7.3",
+    "text": "github:systemjs/plugin-text@0.0.4",
     "whatwg-fetch": "npm:whatwg-fetch@0.11.0",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"

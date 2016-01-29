@@ -12,6 +12,7 @@
     "dependencies": {
       "fetch": "npm:whatwg-fetch@^0.11.0",
       "ractive": "github:ractivejs/ractive@^0.7.3",
+      "text": "github:systemjs/plugin-text@^0.0.4",
       "whatwg-fetch": "npm:whatwg-fetch@^0.11.0"
     },
     "devDependencies": {
